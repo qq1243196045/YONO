@@ -1,0 +1,428 @@
+============================================
+summary data: 2021/11/05/11
+============================================
+62.50% = base AP 	||	score_threhold=0.5 : F1=0.71 ; Recall=62.50% ; Precision=83.33%
+65.86% = book AP 	||	score_threhold=0.5 : F1=0.74 ; Recall=66.67% ; Precision=82.35%
+20.00% = bottle AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=20.00% ; Precision=50.00%
+47.22% = bucket AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=50.00% ; Precision=90.00%
+0.00% = cup AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+50.00% = key AP 	||	score_threhold=0.5 : F1=0.33 ; Recall=100.00% ; Precision=20.00%
+14.88% = leg AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.86% ; Precision=58.33%
+85.15% = paperBall AP 	||	score_threhold=0.5 : F1=0.85 ; Recall=86.32% ; Precision=84.54%
+73.28% = pen AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=73.96% ; Precision=82.56%
+80.22% = shoes AP 	||	score_threhold=0.5 : F1=0.86 ; Recall=79.46% ; Precision=93.68%
+62.45% = wires AP 	||	score_threhold=0.5 : F1=0.72 ; Recall=64.44% ; Precision=80.56%
+mAP = 51.05%
+============================================
+summary data: 2021/11/06/09
+============================================
+50.00% = base AP 	||	score_threhold=0.5 : F1=0.67 ; Recall=50.00% ; Precision=100.00%
+62.67% = book AP 	||	score_threhold=0.5 : F1=0.67 ; Recall=66.67% ; Precision=67.74%
+9.09% = bottle AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=9.09% ; Precision=50.00%
+50.52% = bucket AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=55.56% ; Precision=58.82%
+100.00% = key AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=100.00% ; Precision=25.00%
+26.32% = leg AP 	||	score_threhold=0.5 : F1=0.41 ; Recall=34.20% ; Precision=52.38%
+77.96% = paperBall AP 	||	score_threhold=0.5 : F1=0.82 ; Recall=80.00% ; Precision=83.52%
+68.35% = pen AP 	||	score_threhold=0.5 : F1=0.74 ; Recall=69.79% ; Precision=79.76%
+83.75% = shoes AP 	||	score_threhold=0.5 : F1=0.85 ; Recall=81.03% ; Precision=90.38%
+63.08% = wires AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=63.04% ; Precision=64.44%
+mAP = 59.17%
+
+============================================
+summary data: 2021/11/12/12
+============================================
+73.70% = aeroplane AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=69.82% ; Precision=80.24%
+77.77% = bicycle AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=73.00% ; Precision=88.17%
+48.47% = bird AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=46.62% ; Precision=73.54%
+56.65% = boat AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=53.99% ; Precision=63.96%
+37.99% = bottle AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=31.77% ; Precision=67.12%
+68.60% = bus AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=67.61% ; Precision=83.72%
+85.03% = car AP 	||	score_threhold=0.5 : F1=0.83 ; Recall=81.10% ; Precision=84.48%
+63.63% = cat AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=63.41% ; Precision=77.47%
+42.28% = chair AP 	||	score_threhold=0.5 : F1=0.49 ; Recall=39.68% ; Precision=64.38%
+55.50% = cow AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=60.66% ; Precision=68.20%
+62.97% = diningtable AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=58.74% ; Precision=72.46%
+59.23% = dog AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=62.78% ; Precision=69.14%
+77.45% = horse AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=75.00% ; Precision=86.42%
+73.53% = motorbike AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=70.15% ; Precision=80.00%
+80.41% = person AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=76.26% ; Precision=82.96%
+39.30% = pottedplant AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=39.17% ; Precision=62.46%
+57.87% = sheep AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=61.98% ; Precision=68.49%
+62.98% = sofa AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=71.55% ; Precision=61.51%
+75.12% = train AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=74.47% ; Precision=78.07%
+68.19% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=63.31% ; Precision=78.00%
+mAP = 63.33%
+============================================
+summary data: 2021/11/15/11
+============================================
+68.57% = aeroplane AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=63.16% ; Precision=79.30%
+74.41% = bicycle AP 	||	score_threhold=0.5 : F1=0.73 ; Recall=69.14% ; Precision=77.67%
+48.15% = bird AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=38.56% ; Precision=74.06%
+46.81% = boat AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=46.01% ; Precision=59.31%
+39.35% = bottle AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=29.85% ; Precision=74.47%
+68.58% = bus AP 	||	score_threhold=0.5 : F1=0.72 ; Recall=68.54% ; Precision=76.84%
+83.11% = car AP 	||	score_threhold=0.5 : F1=0.81 ; Recall=77.10% ; Precision=86.14%
+59.06% = cat AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=50.28% ; Precision=81.82%
+41.02% = chair AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=34.66% ; Precision=67.70%
+51.53% = cow AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=50.41% ; Precision=66.13%
+64.42% = diningtable AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=58.25% ; Precision=70.59%
+52.96% = dog AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=42.33% ; Precision=76.95%
+75.03% = horse AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=71.55% ; Precision=86.46%
+70.12% = motorbike AP 	||	score_threhold=0.5 : F1=0.73 ; Recall=64.62% ; Precision=84.34%
+79.69% = person AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=71.42% ; Precision=84.28%
+40.65% = pottedplant AP 	||	score_threhold=0.5 : F1=0.44 ; Recall=33.54% ; Precision=63.39%
+54.01% = sheep AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=54.13% ; Precision=64.22%
+63.34% = sofa AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=60.25% ; Precision=70.59%
+70.87% = train AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=72.34% ; Precision=77.27%
+64.27% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=61.69% ; Precision=68.35%
+mAP = 60.80%
+============================================
+summary data: 2021/11/15/11
+============================================
+68.57% = aeroplane AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=63.16% ; Precision=79.30%
+74.41% = bicycle AP 	||	score_threhold=0.5 : F1=0.73 ; Recall=69.14% ; Precision=77.67%
+48.15% = bird AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=38.56% ; Precision=74.06%
+46.81% = boat AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=46.01% ; Precision=59.31%
+39.35% = bottle AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=29.85% ; Precision=74.47%
+68.58% = bus AP 	||	score_threhold=0.5 : F1=0.72 ; Recall=68.54% ; Precision=76.84%
+83.11% = car AP 	||	score_threhold=0.5 : F1=0.81 ; Recall=77.10% ; Precision=86.14%
+59.06% = cat AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=50.28% ; Precision=81.82%
+41.02% = chair AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=34.66% ; Precision=67.70%
+51.53% = cow AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=50.41% ; Precision=66.13%
+64.42% = diningtable AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=58.25% ; Precision=70.59%
+52.96% = dog AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=42.33% ; Precision=76.95%
+75.03% = horse AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=71.55% ; Precision=86.46%
+70.12% = motorbike AP 	||	score_threhold=0.5 : F1=0.73 ; Recall=64.62% ; Precision=84.34%
+79.69% = person AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=71.42% ; Precision=84.28%
+40.65% = pottedplant AP 	||	score_threhold=0.5 : F1=0.44 ; Recall=33.54% ; Precision=63.39%
+54.01% = sheep AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=54.13% ; Precision=64.22%
+63.34% = sofa AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=60.25% ; Precision=70.59%
+70.87% = train AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=72.34% ; Precision=77.27%
+64.27% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=61.69% ; Precision=68.35%
+mAP = 60.80%
+============================================
+summary data: 2021/11/16/09
+============================================
+75.56% = aeroplane AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=71.93% ; Precision=86.86%
+78.52% = bicycle AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=72.70% ; Precision=88.45%
+51.73% = bird AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=49.24% ; Precision=76.61%
+56.80% = boat AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=53.99% ; Precision=67.30%
+40.09% = bottle AP 	||	score_threhold=0.5 : F1=0.47 ; Recall=34.54% ; Precision=73.64%
+69.93% = bus AP 	||	score_threhold=0.5 : F1=0.74 ; Recall=67.61% ; Precision=80.90%
+85.81% = car AP 	||	score_threhold=0.5 : F1=0.83 ; Recall=81.18% ; Precision=85.00%
+62.07% = cat AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=61.73% ; Precision=80.36%
+41.01% = chair AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=37.30% ; Precision=65.43%
+58.70% = cow AP 	||	score_threhold=0.5 : F1=0.67 ; Recall=63.11% ; Precision=70.64%
+64.38% = diningtable AP 	||	score_threhold=0.5 : F1=0.67 ; Recall=61.17% ; Precision=73.26%
+56.46% = dog AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=60.12% ; Precision=66.97%
+75.18% = horse AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=74.43% ; Precision=85.20%
+73.41% = motorbike AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=68.62% ; Precision=81.68%
+81.59% = person AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=77.25% ; Precision=83.86%
+38.21% = pottedplant AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=38.54% ; Precision=62.08%
+56.91% = sheep AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=62.40% ; Precision=68.02%
+61.33% = sofa AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=71.13% ; Precision=57.05%
+73.82% = train AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=75.53% ; Precision=78.31%
+67.32% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=63.96% ; Precision=76.95%
+mAP = 63.44%
+============================================
+summary data: 2021/12/06/10
+============================================
+76.98% = aeroplane AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=71.93% ; Precision=84.02%
+76.80% = bicycle AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=73.00% ; Precision=84.25%
+53.90% = bird AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=49.46% ; Precision=72.76%
+58.54% = boat AP 	||	score_threhold=0.5 : F1=0.61 ; Recall=58.56% ; Precision=64.17%
+39.56% = bottle AP 	||	score_threhold=0.5 : F1=0.44 ; Recall=32.41% ; Precision=69.41%
+72.04% = bus AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=69.48% ; Precision=81.77%
+86.17% = car AP 	||	score_threhold=0.5 : F1=0.83 ; Recall=81.85% ; Precision=85.18%
+62.39% = cat AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=63.41% ; Precision=78.28%
+43.45% = chair AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=40.87% ; Precision=64.51%
+62.80% = cow AP 	||	score_threhold=0.5 : F1=0.68 ; Recall=65.57% ; Precision=70.80%
+67.37% = diningtable AP 	||	score_threhold=0.5 : F1=0.68 ; Recall=64.56% ; Precision=71.51%
+61.01% = dog AP 	||	score_threhold=0.5 : F1=0.67 ; Recall=63.19% ; Precision=70.71%
+76.10% = horse AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=75.00% ; Precision=85.57%
+73.51% = motorbike AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=71.69% ; Precision=80.62%
+80.48% = person AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=76.08% ; Precision=84.02%
+36.66% = pottedplant AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=36.25% ; Precision=59.59%
+61.08% = sheep AP 	||	score_threhold=0.5 : F1=0.69 ; Recall=64.46% ; Precision=73.24%
+63.17% = sofa AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=67.36% ; Precision=61.92%
+73.20% = train AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=74.11% ; Precision=77.99%
+68.68% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.69 ; Recall=61.36% ; Precision=78.10%
+mAP = 64.70%
+============================================
+summary data: 2021/12/07/09
+============================================
+73.88% = aeroplane AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=72.63% ; Precision=82.80%
+80.01% = bicycle AP 	||	score_threhold=0.5 : F1=0.81 ; Recall=74.48% ; Precision=87.76%
+53.96% = bird AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=51.85% ; Precision=72.34%
+56.88% = boat AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=58.17% ; Precision=59.53%
+41.22% = bottle AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=36.03% ; Precision=70.42%
+67.73% = bus AP 	||	score_threhold=0.5 : F1=0.71 ; Recall=66.20% ; Precision=76.63%
+86.27% = car AP 	||	score_threhold=0.5 : F1=0.83 ; Recall=80.18% ; Precision=86.60%
+64.50% = cat AP 	||	score_threhold=0.5 : F1=0.73 ; Recall=67.04% ; Precision=79.73%
+43.28% = chair AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=42.86% ; Precision=64.29%
+63.18% = cow AP 	||	score_threhold=0.5 : F1=0.69 ; Recall=67.21% ; Precision=70.69%
+63.86% = diningtable AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=57.77% ; Precision=72.56%
+60.57% = dog AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=60.12% ; Precision=72.24%
+75.26% = horse AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=74.43% ; Precision=84.92%
+78.98% = motorbike AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=75.69% ; Precision=85.42%
+82.03% = person AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=78.05% ; Precision=83.02%
+42.21% = pottedplant AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=42.71% ; Precision=61.93%
+57.86% = sheep AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=62.40% ; Precision=69.91%
+61.69% = sofa AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=71.13% ; Precision=59.03%
+74.39% = train AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=77.30% ; Precision=76.49%
+70.30% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.69 ; Recall=64.61% ; Precision=75.09%
+mAP = 64.90%
+============================================
+summary data: 2021/12/08/09
+============================================
+70.76% = aeroplane AP 	||	score_threhold=0.5 : F1=0.68 ; Recall=55.44% ; Precision=86.34%
+76.60% = bicycle AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=67.36% ; Precision=90.44%
+54.64% = bird AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=41.83% ; Precision=79.01%
+48.83% = boat AP 	||	score_threhold=0.5 : F1=0.53 ; Recall=43.73% ; Precision=66.09%
+45.01% = bottle AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=34.97% ; Precision=74.89%
+69.88% = bus AP 	||	score_threhold=0.5 : F1=0.72 ; Recall=63.85% ; Precision=82.42%
+86.86% = car AP 	||	score_threhold=0.5 : F1=0.84 ; Recall=81.52% ; Precision=86.33%
+60.28% = cat AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=55.03% ; Precision=74.90%
+42.68% = chair AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=33.99% ; Precision=65.90%
+60.17% = cow AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=54.92% ; Precision=72.04%
+61.65% = diningtable AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=55.83% ; Precision=70.12%
+52.08% = dog AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=41.72% ; Precision=76.12%
+77.32% = horse AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=72.41% ; Precision=90.00%
+75.72% = motorbike AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=67.38% ; Precision=83.91%
+81.63% = person AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=73.08% ; Precision=83.77%
+40.03% = pottedplant AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=32.71% ; Precision=61.81%
+60.28% = sheep AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=54.96% ; Precision=72.68%
+58.01% = sofa AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=52.72% ; Precision=69.61%
+73.55% = train AP 	||	score_threhold=0.5 : F1=0.74 ; Recall=69.15% ; Precision=79.59%
+69.23% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.68 ; Recall=61.69% ; Precision=74.80%
+mAP = 63.26%
+============================================
+summary data: 2021/12/09/14
+============================================
+70.76% = aeroplane AP 	||	score_threhold=0.5 : F1=0.68 ; Recall=55.44% ; Precision=86.34%
+76.60% = bicycle AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=67.36% ; Precision=90.44%
+54.64% = bird AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=41.83% ; Precision=79.01%
+48.83% = boat AP 	||	score_threhold=0.5 : F1=0.53 ; Recall=43.73% ; Precision=66.09%
+45.01% = bottle AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=34.97% ; Precision=74.89%
+69.88% = bus AP 	||	score_threhold=0.5 : F1=0.72 ; Recall=63.85% ; Precision=82.42%
+86.86% = car AP 	||	score_threhold=0.5 : F1=0.84 ; Recall=81.52% ; Precision=86.33%
+60.28% = cat AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=55.03% ; Precision=74.90%
+42.68% = chair AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=33.99% ; Precision=65.90%
+60.17% = cow AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=54.92% ; Precision=72.04%
+61.65% = diningtable AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=55.83% ; Precision=70.12%
+52.08% = dog AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=41.72% ; Precision=76.12%
+77.32% = horse AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=72.41% ; Precision=90.00%
+75.72% = motorbike AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=67.38% ; Precision=83.91%
+81.63% = person AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=73.08% ; Precision=83.77%
+40.03% = pottedplant AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=32.71% ; Precision=61.81%
+60.28% = sheep AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=54.96% ; Precision=72.68%
+58.01% = sofa AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=52.72% ; Precision=69.61%
+73.55% = train AP 	||	score_threhold=0.5 : F1=0.74 ; Recall=69.15% ; Precision=79.59%
+69.23% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.68 ; Recall=61.69% ; Precision=74.80%
+mAP = 63.26%
+============================================
+summary data: 2021/12/10/10
+============================================
+74.91% = aeroplane AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=70.53% ; Precision=82.38%
+78.05% = bicycle AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=75.96% ; Precision=85.33%
+52.51% = bird AP 	||	score_threhold=0.5 : F1=0.61 ; Recall=50.11% ; Precision=76.92%
+56.40% = boat AP 	||	score_threhold=0.5 : F1=0.61 ; Recall=57.03% ; Precision=64.94%
+38.12% = bottle AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=34.75% ; Precision=68.20%
+70.71% = bus AP 	||	score_threhold=0.5 : F1=0.73 ; Recall=70.42% ; Precision=76.53%
+84.88% = car AP 	||	score_threhold=0.5 : F1=0.83 ; Recall=79.77% ; Precision=85.54%
+63.61% = cat AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=64.80% ; Precision=76.07%
+44.17% = chair AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=43.25% ; Precision=63.87%
+59.94% = cow AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=63.93% ; Precision=67.24%
+66.87% = diningtable AP 	||	score_threhold=0.5 : F1=0.68 ; Recall=62.62% ; Precision=74.57%
+56.08% = dog AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=58.28% ; Precision=70.54%
+74.87% = horse AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=73.28% ; Precision=84.44%
+77.20% = motorbike AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=72.62% ; Precision=87.08%
+80.68% = person AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=76.88% ; Precision=83.02%
+39.17% = pottedplant AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=38.96% ; Precision=62.96%
+55.43% = sheep AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=57.44% ; Precision=69.50%
+57.46% = sofa AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=66.53% ; Precision=57.82%
+74.12% = train AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=74.11% ; Precision=77.12%
+66.58% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.67 ; Recall=60.06% ; Precision=75.82%
+mAP = 63.59%
+============================================
+summary data: 2021/12/11/09
+============================================
+78.56% = aeroplane AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=76.14% ; Precision=78.06%
+78.75% = bicycle AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=75.07% ; Precision=82.95%
+55.08% = bird AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=53.38% ; Precision=77.04%
+54.20% = boat AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=56.65% ; Precision=56.87%
+41.20% = bottle AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=38.81% ; Precision=71.65%
+72.39% = bus AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=69.48% ; Precision=80.87%
+87.03% = car AP 	||	score_threhold=0.5 : F1=0.83 ; Recall=83.26% ; Precision=83.68%
+65.49% = cat AP 	||	score_threhold=0.5 : F1=0.71 ; Recall=64.53% ; Precision=79.66%
+44.84% = chair AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=41.93% ; Precision=63.65%
+59.33% = cow AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=61.48% ; Precision=71.77%
+66.61% = diningtable AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=60.19% ; Precision=70.45%
+64.20% = dog AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=66.67% ; Precision=72.77%
+78.26% = horse AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=76.44% ; Precision=84.71%
+74.62% = motorbike AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=72.00% ; Precision=84.17%
+81.43% = person AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=78.42% ; Precision=81.59%
+42.91% = pottedplant AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=43.75% ; Precision=59.49%
+59.53% = sheep AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=63.64% ; Precision=67.54%
+62.65% = sofa AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=69.04% ; Precision=59.78%
+74.70% = train AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=73.40% ; Precision=75.82%
+65.12% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.68 ; Recall=63.31% ; Precision=72.49%
+mAP = 65.35%
+============================================
+summary data: 2021/12/11/09
+============================================
+78.56% = aeroplane AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=76.14% ; Precision=78.06%
+78.75% = bicycle AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=75.07% ; Precision=82.95%
+55.08% = bird AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=53.38% ; Precision=77.04%
+54.20% = boat AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=56.65% ; Precision=56.87%
+41.20% = bottle AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=38.81% ; Precision=71.65%
+72.39% = bus AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=69.48% ; Precision=80.87%
+87.03% = car AP 	||	score_threhold=0.5 : F1=0.83 ; Recall=83.26% ; Precision=83.68%
+65.49% = cat AP 	||	score_threhold=0.5 : F1=0.71 ; Recall=64.53% ; Precision=79.66%
+44.84% = chair AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=41.93% ; Precision=63.65%
+59.33% = cow AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=61.48% ; Precision=71.77%
+66.61% = diningtable AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=60.19% ; Precision=70.45%
+64.20% = dog AP 	||	score_threhold=0.5 : F1=0.70 ; Recall=66.67% ; Precision=72.77%
+78.26% = horse AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=76.44% ; Precision=84.71%
+74.62% = motorbike AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=72.00% ; Precision=84.17%
+81.43% = person AP 	||	score_threhold=0.5 : F1=0.80 ; Recall=78.42% ; Precision=81.59%
+42.91% = pottedplant AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=43.75% ; Precision=59.49%
+59.53% = sheep AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=63.64% ; Precision=67.54%
+62.65% = sofa AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=69.04% ; Precision=59.78%
+74.70% = train AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=73.40% ; Precision=75.82%
+65.12% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.68 ; Recall=63.31% ; Precision=72.49%
+mAP = 65.35%
+============================================
+summary data: 2021/12/12/16
+============================================
+1.05% = aeroplane AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.05% ; Precision=100.00%
+0.00% = base AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = bicycle AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = bird AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+0.00% = boat AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = book AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = bottle AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = bucket AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = bus AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = car AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = cat AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = chair AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = cow AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = diningtable AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = dog AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = horse AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = key AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+28.33% = leg AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=36.51% ; Precision=32.96%
+0.00% = motorbike AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+11.65% = paperBall AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=17.89% ; Precision=15.60%
+0.00% = paperball AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = pen AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = person AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+0.00% = pottedplant AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = sheep AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+66.32% = shoes AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=70.50% ; Precision=43.16%
+0.00% = sofa AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = train AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = tvmonitor AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+46.19% = wires AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=62.18% ; Precision=24.67%
+mAP = 5.12%
+============================================
+summary data: 2021/12/12/16
+============================================
+0.00% = base AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = book AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = bottle AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = bucket AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = key AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+45.90% = leg AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=36.51% ; Precision=60.46%
+15.58% = paperBall AP 	||	score_threhold=0.5 : F1=0.18 ; Recall=17.89% ; Precision=18.28%
+0.00% = paperball AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = pen AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+75.85% = shoes AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=70.50% ; Precision=81.51%
+60.94% = wires AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=62.18% ; Precision=62.98%
+mAP = 18.02%
+============================================
+summary data: 2021/12/12/16
+============================================
+45.90% = leg AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=36.51% ; Precision=60.46%
+15.58% = paperBall AP 	||	score_threhold=0.5 : F1=0.18 ; Recall=17.89% ; Precision=18.28%
+75.85% = shoes AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=70.50% ; Precision=81.51%
+60.94% = wires AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=62.18% ; Precision=62.98%
+mAP = 49.57%
+============================================
+
+============================================
+summary data: 2021/12/15/17
+============================================
+============================================
+summary data: 2021/12/15/17
+============================================
+45.90% = leg AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=36.51% ; Precision=60.46%
+0.00% = paperball AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+75.85% = shoes AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=70.50% ; Precision=81.51%
+60.94% = wires AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=62.18% ; Precision=62.98%
+mAP = 45.67%
+============================================
+summary data: 2021/12/16/13
+============================================
+97.54% = Are you crazy? AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=98.13% ; Precision=97.22%
+87.33% = Come here AP 	||	score_threhold=0.5 : F1=0.92 ; Recall=87.61% ; Precision=97.06%
+96.22% = Crafty AP 	||	score_threhold=0.5 : F1=0.97 ; Recall=96.23% ; Precision=98.08%
+96.46% = Enough already AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=96.47% ; Precision=98.80%
+89.54% = GO away AP 	||	score_threhold=0.5 : F1=0.90 ; Recall=90.70% ; Precision=89.66%
+99.46% = I'm hungry AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=100.00% ; Precision=96.84%
+96.91% = I'm sick and tired of it AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=96.91% ; Precision=100.00%
+98.85% = It's very delicious AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=98.96% ; Precision=96.94%
+99.46% = No fun AP 	||	score_threhold=0.5 : F1=0.94 ; Recall=100.00% ; Precision=88.89%
+94.35% = No good any more AP 	||	score_threhold=0.5 : F1=0.93 ; Recall=94.79% ; Precision=91.00%
+96.20% = OK AP 	||	score_threhold=0.5 : F1=0.93 ; Recall=96.19% ; Precision=90.18%
+94.85% = Perfect AP 	||	score_threhold=0.5 : F1=0.93 ; Recall=95.28% ; Precision=90.18%
+95.10% = That was a long time ago AP 	||	score_threhold=0.5 : F1=0.95 ; Recall=95.37% ; Precision=94.50%
+92.25% = There is no interest to me AP 	||	score_threhold=0.5 : F1=0.94 ; Recall=92.45% ; Precision=96.08%
+99.02% = They get together AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=99.07% ; Precision=97.25%
+97.32% = They have agreed AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=97.35% ; Precision=98.21%
+89.30% = What do you want? AP 	||	score_threhold=0.5 : F1=0.94 ; Recall=89.34% ; Precision=98.20%
+99.07% = What have you donw? AP 	||	score_threhold=0.5 : F1=0.99 ; Recall=99.07% ; Precision=99.07%
+97.22% = What whould you do? AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=97.22% ; Precision=98.13%
+94.44% = You want to take AP 	||	score_threhold=0.5 : F1=0.97 ; Recall=94.44% ; Precision=100.00%
+99.46% = hand AP 	||	score_threhold=0.5 : F1=0.99 ; Recall=98.77% ; Precision=98.71%
+47.11% = leg AP 	||	score_threhold=0.5 : F1=0.47 ; Recall=36.83% ; Precision=63.70%
+0.00% = paperball AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+75.39% = shoes AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=69.77% ; Precision=81.02%
+62.00% = wires AP 	||	score_threhold=0.5 : F1=0.61 ; Recall=61.62% ; Precision=60.96%
+mAP = 87.79%
+============================================
+summary data: 2021/12/16/14
+============================================
+97.54% = Are you crazy? AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=98.13% ; Precision=97.22%
+87.33% = Come here AP 	||	score_threhold=0.5 : F1=0.92 ; Recall=87.61% ; Precision=97.06%
+96.22% = Crafty AP 	||	score_threhold=0.5 : F1=0.97 ; Recall=96.23% ; Precision=98.08%
+96.46% = Enough already AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=96.47% ; Precision=98.80%
+89.54% = GO away AP 	||	score_threhold=0.5 : F1=0.90 ; Recall=90.70% ; Precision=89.66%
+99.46% = I'm hungry AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=100.00% ; Precision=96.84%
+96.91% = I'm sick and tired of it AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=96.91% ; Precision=100.00%
+98.85% = It's very delicious AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=98.96% ; Precision=96.94%
+99.46% = No fun AP 	||	score_threhold=0.5 : F1=0.94 ; Recall=100.00% ; Precision=88.89%
+94.35% = No good any more AP 	||	score_threhold=0.5 : F1=0.93 ; Recall=94.79% ; Precision=91.00%
+96.20% = OK AP 	||	score_threhold=0.5 : F1=0.93 ; Recall=96.19% ; Precision=90.18%
+94.85% = Perfect AP 	||	score_threhold=0.5 : F1=0.93 ; Recall=95.28% ; Precision=90.18%
+95.10% = That was a long time ago AP 	||	score_threhold=0.5 : F1=0.95 ; Recall=95.37% ; Precision=94.50%
+92.25% = There is no interest to me AP 	||	score_threhold=0.5 : F1=0.94 ; Recall=92.45% ; Precision=96.08%
+99.02% = They get together AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=99.07% ; Precision=97.25%
+97.32% = They have agreed AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=97.35% ; Precision=98.21%
+89.30% = What do you want? AP 	||	score_threhold=0.5 : F1=0.94 ; Recall=89.34% ; Precision=98.20%
+99.07% = What have you donw? AP 	||	score_threhold=0.5 : F1=0.99 ; Recall=99.07% ; Precision=99.07%
+97.22% = What whould you do? AP 	||	score_threhold=0.5 : F1=0.98 ; Recall=97.22% ; Precision=98.13%
+94.44% = You want to take AP 	||	score_threhold=0.5 : F1=0.97 ; Recall=94.44% ; Precision=100.00%
+99.46% = hand AP 	||	score_threhold=0.5 : F1=0.99 ; Recall=98.77% ; Precision=98.71%
+mAP = 95.73%
+============================================
+summary data: 2022/04/22/11
+============================================
+84.92% = hand AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=60.26% ; Precision=99.62%
+mAP = 84.92%
+============================================
+summary data: 2022/04/22/14
+============================================
+97.67% = hand AP 	||	score_threhold=0.5 : F1=0.97 ; Recall=96.31% ; Precision=96.73%
+mAP = 97.67%

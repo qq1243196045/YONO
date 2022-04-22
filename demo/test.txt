@@ -1,0 +1,1 @@
+/home/bona/home/bona/Projects/python/YOLOX-main/demo/test.txt
